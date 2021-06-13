@@ -1,0 +1,1278 @@
+1
+1
+1
+1
+1
+1
+1
+1
+1
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">এগারো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Egaro</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">12</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বারো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Baro</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">13</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেরো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tero</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">14</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চোদ্দো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Choddo</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">15</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পনেরো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ponero</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">16</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ষোলো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Sholo</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">17</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সতেরো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatero</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">18</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আঠারো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atharo</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">19</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">উনিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">20</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Kuri/Bish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">21</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একুশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekush</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">22</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বাইশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Baish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">23</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেইশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Teish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">24</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চব্বিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chobbish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">25</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঁচিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Paanochish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">26</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছাব্বিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchabbish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">27</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতাশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatash</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">28</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটাশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Athash</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">29</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">২৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ঊনত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unotirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">30</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">31</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ektirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">32</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Bottrish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">33</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tettrish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">34</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চৌত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Choutirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">35</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পৈন্তীরিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Paanoytirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">36</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছোতিরিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchottrish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">37</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাইত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ShaanAitirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">38</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটত্রিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Attirish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">39</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৩৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ঊনচল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unochollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">40</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">41</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একচল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekchollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">42</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বিয়াল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Biyallish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">43</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেতাল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tetallish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">44</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চুয়াল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chuyallish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">45</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঁয়তাল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">PaanOytallish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">46</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছিচল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchechollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">47</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতচল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatchollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">48</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটচল্লিশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atchollish</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">49</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৪৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ঊনপঞ্চাশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unoponchash</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">50</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঞ্চাশ</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ponchash</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">51</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">52</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বাহান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Bahanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">53</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেপ্পান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tipanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">54</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চুযান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chuyanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">55</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঞ্চান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ponchanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">56</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছাপ্পান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchappanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">57</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">58</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটান্নো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atanno</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">59</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৫৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ঊনষাট</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unoshat</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">60</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ষাট</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shat</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">61</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">62</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বাষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Bashotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">63</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Teshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">64</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চৌষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ChaanOushotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">65</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পৈন্ষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">PaanOyshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">66</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছেষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chcheshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">67</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">68</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটষট্টি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atshotti</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">69</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৬৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">উনসত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unoshottor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">70</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shottor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">71</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">72</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বাহাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Bahattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">73</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তেহাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tiyattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">74</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"> চহত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chuyattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">75</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পচাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">PaanOchattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">76</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছিয়াত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchiyattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">77</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">78</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটাত্তর</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atattor</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">79</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৭৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">উনাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Uno-Ashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">80</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">81</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">82</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বিরাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Birashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">83</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তিরাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tirashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">84</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চুরাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Churashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">85</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঁচাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">PaanOchashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">86</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছিয়াশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchiyashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">87</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">88</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটাশি</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atashi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">89</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৮৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ঊনোনব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Unonobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">90</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">নব্বুই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Nobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">91</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯১</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Ekanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">92</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯২</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">বিরানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Biranobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">93</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৩</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">তিরানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Tiranobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">94</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৪</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">চুরানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Churanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">95</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto"></div>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৫</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">পঁচানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">PaanOchanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">96</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৬</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">ছিয়ানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Chchiyanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">97</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৭</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">সাতানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Shatanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">98</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৮</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">আটানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Atanobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">99</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">৯৯</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">নিরানব্বই</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Niranobboi</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="ace-line gutter-author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z ace-ltr" dir="auto"><span class=" author-d-iz88z86z86za0dz67zz78zz78zz74zz68zjz80zz71z9iz90z95iwy6z87zz80zz80zz85zz75z951z88zz90zcz68zz90zyz88z4sz122z5jz80zccz77zz78z">100</span></div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">১০০</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">একশো</div>
+</td>
+<td>
+<div class="ace-line gutter-noauthor ace-ltr" dir="auto">Eksho</div>
+</td>
